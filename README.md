@@ -1,2 +1,2 @@
 # LinkInBio
-A LinkInBio project realised with HTML &amp; CSS
+A responsive LinkInBio page realised with HTML &amp; CSS
